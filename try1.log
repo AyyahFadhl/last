@@ -1,0 +1,444 @@
+
+2022-02-25 17:38:14,665;INFO;GeneratorLoss:3965.61328125
+2022-02-25 17:38:14,681;INFO;DiscriminaotorLoss:1.389186143875122
+2022-02-25 17:38:14,681;INFO;-----------------------------------------------------------------------------------
+2022-02-25 17:38:14,681;INFO;Time for epoch 1 is 128.8245108127594 sec
+2022-02-25 17:38:14,727;INFO;avarge Generator loss:4929.181640625,Avarage Discriminator Loss:1.3911371231079102
+2022-02-25 17:38:14,727;INFO;-----------------------------------------------------------------------------------
+2022-02-25 17:52:18,710;INFO;None
+2022-02-25 17:52:18,710;INFO;Model FCDenseNet Built
+2022-02-25 17:52:18,929;INFO;epoch:1
+2022-02-25 17:52:18,944;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 17:52:18,944;INFO;iteration:1
+2022-02-25 17:52:18,944;INFO;*********
+2022-02-25 17:53:25,170;INFO;GeneratorLoss:7244.3984375
+2022-02-25 17:53:25,185;INFO;DiscriminaotorLoss:1.3968443870544434
+2022-02-25 17:53:25,185;INFO;iteration:2
+2022-02-25 17:53:25,185;INFO;*********
+2022-02-25 17:54:19,755;INFO;GeneratorLoss:3093.376953125
+2022-02-25 17:54:19,786;INFO;DiscriminaotorLoss:1.503688097000122
+2022-02-25 17:54:19,786;INFO;-----------------------------------------------------------------------------------
+2022-02-25 17:54:19,786;INFO;Time for epoch 1 is 120.85707211494446 sec
+2022-02-25 17:54:19,973;INFO;avarge Generator loss:5168.8876953125,Avarage Discriminator Loss:1.4502662420272827
+2022-02-25 17:54:19,973;INFO;-----------------------------------------------------------------------------------
+2022-02-25 17:58:08,204;INFO;None
+2022-02-25 17:58:08,204;INFO;Model FCDenseNet Built
+2022-02-25 17:58:08,407;INFO;epoch:1
+2022-02-25 17:58:08,407;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 17:58:08,407;INFO;iteration:1
+2022-02-25 17:58:08,407;INFO;*********
+2022-02-25 17:58:26,431;INFO;GeneratorLoss:228.0177459716797
+2022-02-25 17:58:26,431;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 17:58:26,431;INFO;iteration:2
+2022-02-25 17:58:26,431;INFO;*********
+2022-02-25 17:58:34,482;INFO;GeneratorLoss:94.07207489013672
+2022-02-25 17:58:34,482;INFO;DiscriminaotorLoss:1.3862941265106201
+2022-02-25 17:58:34,482;INFO;iteration:3
+2022-02-25 17:58:34,482;INFO;*********
+2022-02-25 17:58:42,596;INFO;GeneratorLoss:107.33946228027344
+2022-02-25 17:58:42,596;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 17:58:42,596;INFO;iteration:4
+2022-02-25 17:58:42,596;INFO;*********
+2022-02-25 17:58:50,649;INFO;GeneratorLoss:90.2420654296875
+2022-02-25 17:58:50,649;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 17:58:50,649;INFO;iteration:5
+2022-02-25 17:58:50,649;INFO;*********
+2022-02-25 17:58:58,686;INFO;GeneratorLoss:71.31088256835938
+2022-02-25 17:58:58,686;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 17:58:58,686;INFO;iteration:6
+2022-02-25 17:58:58,686;INFO;*********
+2022-02-25 17:59:06,936;INFO;GeneratorLoss:44.610626220703125
+2022-02-25 17:59:06,936;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 17:59:06,936;INFO;iteration:7
+2022-02-25 17:59:06,936;INFO;*********
+2022-02-25 17:59:15,215;INFO;GeneratorLoss:13.48686408996582
+2022-02-25 17:59:15,215;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 17:59:15,215;INFO;iteration:8
+2022-02-25 17:59:15,215;INFO;*********
+2022-02-25 17:59:23,181;INFO;GeneratorLoss:31.339950561523438
+2022-02-25 17:59:23,182;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 17:59:23,182;INFO;iteration:9
+2022-02-25 17:59:23,182;INFO;*********
+2022-02-25 17:59:31,257;INFO;GeneratorLoss:6.020810127258301
+2022-02-25 17:59:31,257;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 17:59:31,257;INFO;iteration:10
+2022-02-25 17:59:31,257;INFO;*********
+2022-02-25 17:59:39,333;INFO;GeneratorLoss:11.767433166503906
+2022-02-25 17:59:39,333;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 17:59:39,333;INFO;iteration:11
+2022-02-25 17:59:39,333;INFO;*********
+2022-02-25 17:59:47,507;INFO;GeneratorLoss:21.657224655151367
+2022-02-25 17:59:47,569;INFO;DiscriminaotorLoss:1.3862937688827515
+2022-02-25 17:59:47,569;INFO;iteration:12
+2022-02-25 17:59:47,569;INFO;*********
+2022-02-25 17:59:55,798;INFO;GeneratorLoss:2.534731864929199
+2022-02-25 17:59:55,798;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 17:59:55,798;INFO;iteration:13
+2022-02-25 17:59:55,798;INFO;*********
+2022-02-25 18:00:04,161;INFO;GeneratorLoss:28.387346267700195
+2022-02-25 18:00:04,161;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 18:00:04,161;INFO;iteration:14
+2022-02-25 18:00:04,161;INFO;*********
+2022-02-25 18:00:12,290;INFO;GeneratorLoss:34.386104583740234
+2022-02-25 18:00:12,290;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 18:00:12,290;INFO;iteration:15
+2022-02-25 18:00:12,290;INFO;*********
+2022-02-25 18:00:20,905;INFO;GeneratorLoss:38.89213943481445
+2022-02-25 18:00:20,905;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 18:00:20,905;INFO;iteration:16
+2022-02-25 18:00:20,905;INFO;*********
+2022-02-25 18:00:29,364;INFO;GeneratorLoss:35.300174713134766
+2022-02-25 18:00:29,365;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 18:00:29,365;INFO;-----------------------------------------------------------------------------------
+2022-02-25 18:00:29,365;INFO;Time for epoch 1 is 140.95782804489136 sec
+2022-02-25 18:00:29,365;INFO;avarge Generator loss:53.710350036621094,Avarage Discriminator Loss:1.386293888092041
+2022-02-25 18:00:29,365;INFO;-----------------------------------------------------------------------------------
+2022-02-25 18:02:29,548;WARNING;5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000209195B9EE0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-02-25 18:02:30,307;WARNING;6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000209197AC310> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-02-25 18:08:26,805;INFO;None
+2022-02-25 18:08:26,805;INFO;Model FCDenseNet Built
+2022-02-25 18:08:27,070;INFO;epoch:1
+2022-02-25 18:08:27,070;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 18:08:27,070;INFO;iteration:1
+2022-02-25 18:08:27,070;INFO;*********
+2022-02-25 18:09:37,405;INFO;GeneratorLoss:0.774158239364624
+2022-02-25 18:09:37,437;INFO;DiscriminaotorLoss:1.3961892127990723
+2022-02-25 18:09:37,437;INFO;iteration:2
+2022-02-25 18:09:37,437;INFO;*********
+2022-02-25 18:12:54,513;INFO;None
+2022-02-25 18:12:54,513;INFO;Model FCDenseNet Built
+2022-02-25 18:12:54,732;INFO;epoch:1
+2022-02-25 18:12:54,732;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 18:12:54,732;INFO;iteration:1
+2022-02-25 18:12:54,732;INFO;*********
+2022-02-25 18:13:55,667;INFO;None
+2022-02-25 18:13:55,667;INFO;Model FCDenseNet Built
+2022-02-25 18:13:56,089;INFO;epoch:1
+2022-02-25 18:13:56,089;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 18:13:56,104;INFO;iteration:1
+2022-02-25 18:13:56,104;INFO;*********
+2022-02-25 18:15:04,573;INFO;GeneratorLoss:158.65821838378906
+2022-02-25 18:15:04,579;INFO;DiscriminaotorLoss:1.423905611038208
+2022-02-25 18:15:04,579;INFO;iteration:2
+2022-02-25 18:15:04,579;INFO;*********
+2022-02-25 18:16:05,875;INFO;GeneratorLoss:94.0423812866211
+2022-02-25 18:16:05,880;INFO;DiscriminaotorLoss:1.3949286937713623
+2022-02-25 18:16:05,881;INFO;-----------------------------------------------------------------------------------
+2022-02-25 18:16:05,881;INFO;Time for epoch 1 is 129.79282402992249 sec
+2022-02-25 18:16:05,903;INFO;avarge Generator loss:126.35029602050781,Avarage Discriminator Loss:1.4094171524047852
+2022-02-25 18:16:05,904;INFO;-----------------------------------------------------------------------------------
+2022-02-25 18:19:41,342;WARNING;5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001B68538E040> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-02-25 18:19:42,216;WARNING;6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001B6854B80D0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-02-25 18:22:56,864;INFO;None
+2022-02-25 18:22:56,864;INFO;Model FCDenseNet Built
+2022-02-25 18:22:57,130;INFO;epoch:1
+2022-02-25 18:22:57,130;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 18:22:57,146;INFO;iteration:1
+2022-02-25 18:22:57,146;INFO;*********
+2022-02-25 18:24:06,123;INFO;GeneratorLoss:[25.056772 26.47105  28.53598  26.155691 26.135973 27.337284 25.91768
+ 25.49323 ]
+2022-02-25 18:24:06,155;INFO;DiscriminaotorLoss:1.396325945854187
+2022-02-25 18:24:06,155;INFO;iteration:2
+2022-02-25 18:24:06,155;INFO;*********
+2022-02-25 18:24:59,192;INFO;GeneratorLoss:[25.866514 25.088232 24.992308 24.757696 23.366209 23.483837 25.259232
+ 23.354353]
+2022-02-25 18:24:59,207;INFO;DiscriminaotorLoss:1.461013913154602
+2022-02-25 18:24:59,207;INFO;-----------------------------------------------------------------------------------
+2022-02-25 18:24:59,207;INFO;Time for epoch 1 is 122.07733225822449 sec
+2022-02-25 18:24:59,286;INFO;avarge Generator loss:25.45450210571289,Avarage Discriminator Loss:1.4286699295043945
+2022-02-25 18:24:59,286;INFO;-----------------------------------------------------------------------------------
+2022-02-25 18:27:24,676;INFO;None
+2022-02-25 18:27:24,676;INFO;Model FCDenseNet Built
+2022-02-25 18:27:24,926;INFO;epoch:1
+2022-02-25 18:27:24,926;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 18:27:24,926;INFO;iteration:1
+2022-02-25 18:27:24,926;INFO;*********
+2022-02-25 18:28:32,274;INFO;GeneratorLoss:[2.9272723 3.2281237 3.1224518 1.8433597 2.899943  2.9379382 3.5541358
+ 2.4229095]
+2022-02-25 18:28:32,274;INFO;DiscriminaotorLoss:1.3934108018875122
+2022-02-25 18:28:32,274;INFO;iteration:2
+2022-02-25 18:28:32,274;INFO;*********
+2022-02-25 18:29:41,394;INFO;None
+2022-02-25 18:29:41,394;INFO;Model FCDenseNet Built
+2022-02-25 18:29:41,628;INFO;epoch:1
+2022-02-25 18:29:41,628;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 18:29:41,628;INFO;iteration:1
+2022-02-25 18:29:41,628;INFO;*********
+2022-02-25 18:30:45,674;INFO;GeneratorLoss:[ 95.87769  138.22801   85.595055  95.15694  113.84268   70.12719
+ 118.86978   76.37044 ]
+2022-02-25 18:30:45,690;INFO;DiscriminaotorLoss:1.4229463338851929
+2022-02-25 18:30:45,690;INFO;iteration:2
+2022-02-25 18:30:45,690;INFO;*********
+2022-02-25 18:31:38,389;INFO;GeneratorLoss:[80.60203  50.980415 54.932888 43.336033 69.16815  34.434013 50.57043
+ 33.640987]
+2022-02-25 18:31:38,405;INFO;DiscriminaotorLoss:1.4776291847229004
+2022-02-25 18:31:38,405;INFO;-----------------------------------------------------------------------------------
+2022-02-25 18:31:38,405;INFO;Time for epoch 1 is 116.77658319473267 sec
+2022-02-25 18:31:38,467;INFO;avarge Generator loss:75.7332992553711,Avarage Discriminator Loss:1.4502878189086914
+2022-02-25 18:31:38,467;INFO;-----------------------------------------------------------------------------------
+2022-02-25 18:35:09,185;WARNING;5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001AF4822A280> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-02-25 18:35:09,982;WARNING;6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001AF482DC310> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-02-25 18:41:27,673;INFO;None
+2022-02-25 18:41:27,673;INFO;Model FCDenseNet Built
+2022-02-25 18:41:27,876;INFO;epoch:1
+2022-02-25 18:41:27,876;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 18:41:27,876;INFO;iteration:1
+2022-02-25 18:41:27,876;INFO;*********
+2022-02-25 18:45:56,223;INFO;None
+2022-02-25 18:45:56,223;INFO;Model FCDenseNet Built
+2022-02-25 18:45:56,411;INFO;epoch:1
+2022-02-25 18:45:56,411;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 18:45:56,411;INFO;iteration:1
+2022-02-25 18:45:56,411;INFO;*********
+2022-02-25 18:48:10,493;INFO;None
+2022-02-25 18:48:10,493;INFO;Model FCDenseNet Built
+2022-02-25 18:48:10,696;INFO;epoch:1
+2022-02-25 18:48:10,696;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 18:48:10,696;INFO;iteration:1
+2022-02-25 18:48:10,696;INFO;*********
+2022-02-25 18:49:19,626;INFO;GeneratorLoss:164.7716827392578
+2022-02-25 18:49:19,642;INFO;DiscriminaotorLoss:1.3931331634521484
+2022-02-25 18:49:19,642;INFO;iteration:2
+2022-02-25 18:49:19,642;INFO;*********
+2022-02-25 18:50:23,109;INFO;GeneratorLoss:119.37504577636719
+2022-02-25 18:50:23,109;INFO;DiscriminaotorLoss:1.4130889177322388
+2022-02-25 18:50:23,125;INFO;-----------------------------------------------------------------------------------
+2022-02-25 18:50:23,125;INFO;Time for epoch 1 is 132.42896938323975 sec
+2022-02-25 18:50:23,281;INFO;avarge Generator loss:142.0733642578125,Avarage Discriminator Loss:1.4031109809875488
+2022-02-25 18:50:23,281;INFO;-----------------------------------------------------------------------------------
+2022-02-25 18:53:07,779;INFO;None
+2022-02-25 18:53:07,779;INFO;Model FCDenseNet Built
+2022-02-25 18:53:08,044;INFO;epoch:1
+2022-02-25 18:53:08,044;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 18:53:08,044;INFO;iteration:1
+2022-02-25 18:53:08,044;INFO;*********
+2022-02-25 18:54:16,485;INFO;GeneratorLoss:137.1107177734375
+2022-02-25 18:54:16,516;INFO;DiscriminaotorLoss:1.4350473880767822
+2022-02-25 18:54:16,516;INFO;iteration:2
+2022-02-25 18:54:16,516;INFO;*********
+2022-02-25 18:55:09,764;INFO;GeneratorLoss:78.62935638427734
+2022-02-25 18:55:09,764;INFO;DiscriminaotorLoss:1.4716988801956177
+2022-02-25 18:55:09,764;INFO;-----------------------------------------------------------------------------------
+2022-02-25 18:55:09,764;INFO;Time for epoch 1 is 121.71969985961914 sec
+2022-02-25 18:55:09,873;INFO;avarge Generator loss:107.87004089355469,Avarage Discriminator Loss:1.4533731937408447
+2022-02-25 18:55:09,873;INFO;-----------------------------------------------------------------------------------
+2022-02-25 18:56:29,756;INFO;None
+2022-02-25 18:56:29,756;INFO;Model FCDenseNet Built
+2022-02-25 18:56:29,974;INFO;epoch:1
+2022-02-25 18:56:29,974;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 18:56:29,974;INFO;iteration:1
+2022-02-25 18:56:29,974;INFO;*********
+2022-02-25 18:57:33,954;INFO;GeneratorLoss:130.42623901367188
+2022-02-25 18:57:33,970;INFO;DiscriminaotorLoss:1.3905483484268188
+2022-02-25 18:57:33,970;INFO;iteration:2
+2022-02-25 18:57:33,970;INFO;*********
+2022-02-25 18:58:25,829;INFO;GeneratorLoss:67.16136932373047
+2022-02-25 18:58:25,829;INFO;DiscriminaotorLoss:1.4510458707809448
+2022-02-25 18:58:25,844;INFO;-----------------------------------------------------------------------------------
+2022-02-25 18:58:25,844;INFO;Time for epoch 1 is 115.86993861198425 sec
+2022-02-25 18:58:26,922;INFO;avarge Generator loss:98.79380798339844,Avarage Discriminator Loss:1.4207971096038818
+2022-02-25 18:58:26,922;INFO;-----------------------------------------------------------------------------------
+2022-02-25 18:59:32,811;INFO;None
+2022-02-25 18:59:32,811;INFO;Model FCDenseNet Built
+2022-02-25 18:59:33,061;INFO;epoch:1
+2022-02-25 18:59:33,061;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 18:59:33,061;INFO;iteration:1
+2022-02-25 18:59:33,061;INFO;*********
+2022-02-25 18:59:50,033;INFO;GeneratorLoss:166.01861572265625
+2022-02-25 18:59:50,033;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 18:59:50,033;INFO;iteration:2
+2022-02-25 18:59:50,033;INFO;*********
+2022-02-25 18:59:57,992;INFO;GeneratorLoss:96.81885528564453
+2022-02-25 18:59:57,992;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 18:59:57,992;INFO;iteration:3
+2022-02-25 18:59:57,992;INFO;*********
+2022-02-25 19:00:05,947;INFO;GeneratorLoss:35.145545959472656
+2022-02-25 19:00:05,947;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:00:05,947;INFO;iteration:4
+2022-02-25 19:00:05,947;INFO;*********
+2022-02-25 19:00:13,823;INFO;GeneratorLoss:1.1367948055267334
+2022-02-25 19:00:13,823;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:00:13,823;INFO;iteration:5
+2022-02-25 19:00:13,823;INFO;*********
+2022-02-25 19:00:21,790;INFO;GeneratorLoss:3.2597310543060303
+2022-02-25 19:00:21,790;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:00:21,790;INFO;iteration:6
+2022-02-25 19:00:21,790;INFO;*********
+2022-02-25 19:00:29,873;INFO;GeneratorLoss:1.4944748878479004
+2022-02-25 19:00:29,873;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:00:29,873;INFO;iteration:7
+2022-02-25 19:00:29,873;INFO;*********
+2022-02-25 19:00:37,842;INFO;GeneratorLoss:1.9672216176986694
+2022-02-25 19:00:37,842;INFO;DiscriminaotorLoss:1.3862937688827515
+2022-02-25 19:00:37,842;INFO;iteration:8
+2022-02-25 19:00:37,842;INFO;*********
+2022-02-25 19:00:46,003;INFO;GeneratorLoss:4.834456920623779
+2022-02-25 19:00:46,003;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:00:46,003;INFO;iteration:9
+2022-02-25 19:00:46,003;INFO;*********
+2022-02-25 19:00:54,083;INFO;GeneratorLoss:2.7271339893341064
+2022-02-25 19:00:54,083;INFO;DiscriminaotorLoss:1.3862940073013306
+2022-02-25 19:00:54,083;INFO;iteration:10
+2022-02-25 19:00:54,083;INFO;*********
+2022-02-25 19:01:02,042;INFO;GeneratorLoss:17.26803207397461
+2022-02-25 19:01:02,042;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:01:02,042;INFO;iteration:11
+2022-02-25 19:01:02,042;INFO;*********
+2022-02-25 19:01:10,059;INFO;GeneratorLoss:33.53706359863281
+2022-02-25 19:01:10,059;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:01:10,059;INFO;iteration:12
+2022-02-25 19:01:10,059;INFO;*********
+2022-02-25 19:01:18,108;INFO;GeneratorLoss:17.927595138549805
+2022-02-25 19:01:18,108;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:01:18,108;INFO;iteration:13
+2022-02-25 19:01:18,108;INFO;*********
+2022-02-25 19:01:26,109;INFO;GeneratorLoss:31.745080947875977
+2022-02-25 19:01:26,109;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:01:26,109;INFO;iteration:14
+2022-02-25 19:01:26,109;INFO;*********
+2022-02-25 19:01:33,991;INFO;GeneratorLoss:8.159183502197266
+2022-02-25 19:01:33,991;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:01:33,991;INFO;iteration:15
+2022-02-25 19:01:33,991;INFO;*********
+2022-02-25 19:01:41,960;INFO;GeneratorLoss:19.879188537597656
+2022-02-25 19:01:41,960;INFO;DiscriminaotorLoss:1.3862937688827515
+2022-02-25 19:01:41,960;INFO;iteration:16
+2022-02-25 19:01:41,960;INFO;*********
+2022-02-25 19:01:49,868;INFO;GeneratorLoss:1.0609856843948364
+2022-02-25 19:01:49,868;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:01:49,868;INFO;-----------------------------------------------------------------------------------
+2022-02-25 19:01:49,868;INFO;Time for epoch 1 is 136.80704712867737 sec
+2022-02-25 19:01:49,868;INFO;avarge Generator loss:27.686248779296875,Avarage Discriminator Loss:1.386293888092041
+2022-02-25 19:01:49,868;INFO;-----------------------------------------------------------------------------------
+2022-02-25 19:04:54,504;INFO;None
+2022-02-25 19:04:54,504;INFO;Model FCDenseNet Built
+2022-02-25 19:04:54,707;INFO;epoch:1
+2022-02-25 19:04:54,707;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 19:04:54,707;INFO;iteration:1
+2022-02-25 19:04:54,707;INFO;*********
+2022-02-25 19:05:11,506;INFO;GeneratorLoss:204.50320434570312
+2022-02-25 19:05:11,506;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:05:11,506;INFO;iteration:2
+2022-02-25 19:05:11,506;INFO;*********
+2022-02-25 19:05:19,437;INFO;GeneratorLoss:114.47171020507812
+2022-02-25 19:05:19,437;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:05:19,437;INFO;iteration:3
+2022-02-25 19:05:19,437;INFO;*********
+2022-02-25 19:05:27,313;INFO;GeneratorLoss:83.88033294677734
+2022-02-25 19:05:27,313;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:05:27,313;INFO;iteration:4
+2022-02-25 19:05:27,313;INFO;*********
+2022-02-25 19:05:35,200;INFO;GeneratorLoss:98.04791259765625
+2022-02-25 19:05:35,200;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:05:35,200;INFO;iteration:5
+2022-02-25 19:05:35,200;INFO;*********
+2022-02-25 19:05:43,028;INFO;GeneratorLoss:69.078125
+2022-02-25 19:05:43,028;INFO;DiscriminaotorLoss:1.3862940073013306
+2022-02-25 19:05:43,028;INFO;iteration:6
+2022-02-25 19:05:43,028;INFO;*********
+2022-02-25 19:05:50,859;INFO;GeneratorLoss:206.26918029785156
+2022-02-25 19:05:50,859;INFO;DiscriminaotorLoss:1.3862940073013306
+2022-02-25 19:05:50,859;INFO;iteration:7
+2022-02-25 19:05:50,859;INFO;*********
+2022-02-25 19:05:58,722;INFO;GeneratorLoss:1.3627748489379883
+2022-02-25 19:05:58,722;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:05:58,722;INFO;iteration:8
+2022-02-25 19:05:58,722;INFO;*********
+2022-02-25 19:06:06,691;INFO;GeneratorLoss:3.112422466278076
+2022-02-25 19:06:06,691;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:06:06,691;INFO;iteration:9
+2022-02-25 19:06:06,691;INFO;*********
+2022-02-25 19:06:14,574;INFO;GeneratorLoss:0.9463148713111877
+2022-02-25 19:06:14,574;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:06:14,574;INFO;iteration:10
+2022-02-25 19:06:14,574;INFO;*********
+2022-02-25 19:06:22,578;INFO;GeneratorLoss:30.33594512939453
+2022-02-25 19:06:22,578;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:06:22,593;INFO;iteration:11
+2022-02-25 19:06:22,593;INFO;*********
+2022-02-25 19:06:30,493;INFO;GeneratorLoss:27.639795303344727
+2022-02-25 19:06:30,493;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:06:30,493;INFO;iteration:12
+2022-02-25 19:06:30,493;INFO;*********
+2022-02-25 19:06:38,792;INFO;GeneratorLoss:6.959524154663086
+2022-02-25 19:06:38,792;INFO;DiscriminaotorLoss:1.386293888092041
+2022-02-25 19:06:38,792;INFO;iteration:13
+2022-02-25 19:06:38,792;INFO;*********
+2022-02-25 19:07:30,073;INFO;None
+2022-02-25 19:07:30,073;INFO;Model FCDenseNet Built
+2022-02-25 19:07:30,261;INFO;epoch:1
+2022-02-25 19:07:30,261;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 19:07:30,261;INFO;iteration:1
+2022-02-25 19:07:30,261;INFO;*********
+2022-02-25 19:11:52,283;INFO;None
+2022-02-25 19:11:52,283;INFO;Model FCDenseNet Built
+2022-02-25 19:11:52,486;INFO;epoch:1
+2022-02-25 19:11:52,486;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 19:11:52,486;INFO;iteration:1
+2022-02-25 19:11:52,486;INFO;*********
+2022-02-25 19:13:00,462;INFO;GeneratorLoss:302.5435485839844
+2022-02-25 19:13:00,478;INFO;DiscriminaotorLoss:1.3974006175994873
+2022-02-25 19:13:00,478;INFO;iteration:2
+2022-02-25 19:13:00,478;INFO;*********
+2022-02-25 19:13:57,094;INFO;GeneratorLoss:254.4653778076172
+2022-02-25 19:13:57,094;INFO;DiscriminaotorLoss:1.4894165992736816
+2022-02-25 19:13:57,094;INFO;-----------------------------------------------------------------------------------
+2022-02-25 19:13:57,094;INFO;Time for epoch 1 is 124.60785365104675 sec
+2022-02-25 19:13:57,281;INFO;avarge Generator loss:278.50445556640625,Avarage Discriminator Loss:1.4434086084365845
+2022-02-25 19:13:57,281;INFO;-----------------------------------------------------------------------------------
+2022-02-25 19:15:08,774;INFO;None
+2022-02-25 19:15:08,774;INFO;Model FCDenseNet Built
+2022-02-25 19:15:08,962;INFO;epoch:1
+2022-02-25 19:15:08,962;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 19:15:08,962;INFO;iteration:1
+2022-02-25 19:15:08,962;INFO;*********
+2022-02-25 19:16:14,602;INFO;GeneratorLoss:197.5542755126953
+2022-02-25 19:16:14,634;INFO;DiscriminaotorLoss:1.412204384803772
+2022-02-25 19:16:14,634;INFO;iteration:2
+2022-02-25 19:16:14,634;INFO;*********
+2022-02-25 19:17:11,091;INFO;GeneratorLoss:118.21543884277344
+2022-02-25 19:17:11,091;INFO;DiscriminaotorLoss:1.4356411695480347
+2022-02-25 19:17:11,091;INFO;-----------------------------------------------------------------------------------
+2022-02-25 19:17:11,091;INFO;Time for epoch 1 is 122.12925410270691 sec
+2022-02-25 19:17:11,169;INFO;avarge Generator loss:157.88485717773438,Avarage Discriminator Loss:1.4239227771759033
+2022-02-25 19:17:11,169;INFO;-----------------------------------------------------------------------------------
+2022-02-25 19:27:30,321;INFO;Model FCDenseNet Built
+2022-02-25 19:27:30,493;INFO;Model GBRAS-Net Built
+2022-02-25 19:27:30,493;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 19:27:30,493;INFO;iteration:1
+2022-02-25 19:27:30,493;INFO;*********
+2022-02-25 19:28:35,641;INFO;GeneratorLoss:83.327392578125
+2022-02-25 19:28:35,657;INFO;DiscriminaotorLoss:1.4023277759552002
+2022-02-25 19:28:35,657;INFO;iteration:2
+2022-02-25 19:28:35,657;INFO;*********
+2022-02-25 19:29:29,598;INFO;GeneratorLoss:39.834617614746094
+2022-02-25 19:29:29,614;INFO;DiscriminaotorLoss:1.4683183431625366
+2022-02-25 19:29:29,614;INFO;-----------------------------------------------------------------------------------
+2022-02-25 19:29:29,614;INFO;Time for epoch 1 is 119.12118792533875 sec
+2022-02-25 19:29:29,676;INFO;avarge Generator loss:61.58100509643555,Avarage Discriminator Loss:1.4353229999542236
+2022-02-25 19:29:29,676;INFO;-----------------------------------------------------------------------------------
+2022-02-25 19:33:00,004;WARNING;5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000227CDB97F70> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-02-25 19:33:00,754;WARNING;6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000227CED7E160> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-02-25 19:37:18,631;INFO;Model FCDenseNet Built
+2022-02-25 19:37:18,819;INFO;Model GBRAS-Net Built
+2022-02-25 19:37:18,819;INFO;----------------------------epoch:1---------------------------------------------
+2022-02-25 19:37:18,819;INFO;iteration:1
+2022-02-25 19:37:18,819;INFO;*********
+2022-02-25 19:38:22,813;INFO;GeneratorLoss:237.6105194091797
+2022-02-25 19:38:22,813;INFO;DiscriminaotorLoss:1.3949768543243408
+2022-02-25 19:38:22,813;INFO;iteration:2
+2022-02-25 19:38:22,813;INFO;*********
+2022-02-25 19:39:17,848;INFO;GeneratorLoss:160.49021911621094
+2022-02-25 19:39:17,848;INFO;DiscriminaotorLoss:1.4891921281814575
+2022-02-25 19:39:17,848;INFO;-----------------------------------------------------------------------------------
+2022-02-25 19:39:17,848;INFO;Time for epoch 1 is 119.0297646522522 sec
+2022-02-25 19:39:18,052;INFO;avarge Generator loss:199.0503692626953,Avarage Discriminator Loss:1.442084550857544
+2022-02-25 19:39:18,052;INFO;-----------------------------------------------------------------------------------
+2022-02-25 19:43:08,304;WARNING;5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000193A5380820> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-02-25 19:43:09,074;WARNING;6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000193A559B0D0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-02-25 19:43:44,952;WARNING;Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2022-02-25 19:43:59,956;INFO;Assets written to: FCDenseNet_GAN/saved_G_models0.4/generator_model_1.hd5\assets
+2022-02-25 19:44:00,737;INFO;epoch: 1: FCDense_Net generator has been saved-
+2022-02-25 19:44:00,737;WARNING;Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2022-02-25 19:44:03,502;INFO;Assets written to: FCDenseNet_GAN/Saved_D_models0.4/discriminator_model_1.hd5\assets
+2022-02-25 19:44:03,768;INFO;epoch: 1: GRABS_Net discriminator has been saved-
